@@ -1,2 +1,2 @@
 # diffeqexercises
-Differential Equations with Solutions (Python(
+Differential Equations with Solutions (Python)
